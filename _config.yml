@@ -1,0 +1,32 @@
+# Site settings
+title: Chandru Sankar
+email: your.email@example.com
+description: >-
+  Application Development Engineer with 2.8+ years of experience in distributed applications,
+  microservices, middleware, and DevSecOps. Passionate about innovation and building scalable solutions.
+baseurl: ""
+url: "https://chandrusankar.github.io"
+
+# Social links
+github_username: ChandruSankar
+twitter_username: escchandru
+linkedin_username: your-linkedin-username
+leetcode_username: escchandru
+instagram_username: escchandru
+facebook_username: chanesc99
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
